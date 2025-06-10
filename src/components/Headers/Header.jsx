@@ -7,8 +7,8 @@ const Header = () => {
     <header>
       
         <nav className='navbar'>
-            <Link to='/home' className='header-vck'>Vivekanand College</Link>       
-            <Link to='/home' >Home</Link>
+                  
+            <Link to='/' >Home</Link>
             <Link to='/about'>About</Link>
             <Link to= '/courses'>Courses</Link>
             <Link to='/contact' >Contact</Link>
